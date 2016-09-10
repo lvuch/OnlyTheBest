@@ -2,3 +2,8 @@ name: OnlyTheBest
 description: Only The Best by Alisa Tyler
 
 baseurl: https://lvuch.github.io/OnlyTheBest
+
+# Sass settings
+sass:
+    sass_dir: _scss
+    style: :compressed
