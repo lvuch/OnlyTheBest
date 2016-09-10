@@ -1,0 +1,66 @@
+// Layout styles
+// ---------------------------------------/
+
+.container {
+  width: $container-width;
+  margin-right: auto;
+  margin-left: auto;
+  @include clearfix;
+}
+
+/*  SECTIONS  */
+section {
+  clear: both;
+  padding: 0px;
+  margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+  display: block;
+  float:left;
+  margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+
+/*  GROUPING  */
+.row:before,
+.row:after {
+  content:"";
+  display:table;
+}
+.row:after {
+  clear:both;
+}
+.row {
+  zoom:1; /* For IE 6/7 */
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/*  GRID OF SIX  */
+.span_6_of_6 {
+  width: 100%;
+}
+
+.span_5_of_6 {
+    width: 82.83%;
+}
+
+.span_4_of_6 {
+    width: 65.66%;
+}
+
+.span_3_of_6 {
+    width: 48.5%;
+}
+
+.span_2_of_6 {
+    width: 31.33%;
+}
+
+.span_1_of_6 {
+    width: 14.16%;
+}

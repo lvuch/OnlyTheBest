@@ -1,20 +1,21 @@
----
----
-
-
-// start content
-$lightGrey : #ECECED;
-$midGrey   : #ABADB0;
-$darkGrey  : #7B7C7F;
-$blush     : #FDDED5;
-$blushDark : #FBC0B0;
-
+// Base styles
+// ---------------------------------------/
 * {
-  transition: ease-in-out all .25s;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   box-sizing: border-box;
+  transition: ease-in-out all .25s;
+}
+
+html {
+  background: $white;
 }
 
 body {
+  @include sans;
+  color: $text_color;
+  font-size: 16px;
+  line-height: 1.5;
   font-family: 'EB Garamond', serif;
   font-size: 16px;
   line-height: 21px;

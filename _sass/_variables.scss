@@ -1,0 +1,27 @@
+// Variables
+// ---------------------------------------/
+$lightGrey : #ECECED;
+$midGrey   : #ABADB0;
+$darkGrey  : #7B7C7F;
+$blush     : #FDDED5;
+$blushDark : #FBC0B0;
+
+
+$container-width: 980px !default;
+$grid-gutter:     10px !default;
+
+// Colors
+$white:             #fff;
+$black:             $darkGrey;
+
+// Styles
+$text_color:        $darkGrey;
+
+// Font stack
+$body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
+
+// The base body size
+$body-font-size: 13px !default;
+
+// Monospace font stack
+$mono-font: Consolas, "Liberation Mono", Menlo, Courier, monospace !default;

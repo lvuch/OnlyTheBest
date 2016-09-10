@@ -1,9 +1,11 @@
-name: OnlyTheBest
-description: Only The Best by Alisa Tyler
+# Site settings
+title: "Jekyll Boilerplate"
+description: "site description goes here"
 
-baseurl: https://lvuch.github.io/OnlyTheBest
+url: "http://yourdomain.com"
 
-# Sass settings
+# Build settings
+markdown: kramdown
 sass:
-    sass_dir: _scss
-    style: :compressed
+  sass_dir: _sass
+  style: compressed
