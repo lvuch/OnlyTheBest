@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://lvuch.github.io/OnlyTheBest/2015/04/02/hello-world.html</loc>
+        <loc>/2015/04/02/hello-world.html</loc>
     </url>
     
 
@@ -10,7 +10,7 @@
     
     
     <url>
-        <loc>https://lvuch.github.io/OnlyTheBest/about/</loc>
+        <loc>/about/</loc>
     </url>
     
     
@@ -18,7 +18,7 @@
     
     
     <url>
-        <loc>https://lvuch.github.io/OnlyTheBest/contact/</loc>
+        <loc>/contact/</loc>
     </url>
     
     
@@ -26,7 +26,7 @@
     
     
     <url>
-        <loc>https://lvuch.github.io/OnlyTheBest/</loc>
+        <loc>/</loc>
     </url>
     
     
@@ -34,7 +34,7 @@
     
     
     <url>
-        <loc>https://lvuch.github.io/OnlyTheBest/testimonials/</loc>
+        <loc>/testimonials/</loc>
     </url>
     
     
@@ -42,7 +42,7 @@
     
     
     <url>
-        <loc>https://lvuch.github.io/OnlyTheBest/gallery/</loc>
+        <loc>/gallery/</loc>
     </url>
     
     
