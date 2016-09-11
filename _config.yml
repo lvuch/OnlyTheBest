@@ -3,6 +3,7 @@ title: "Only the Best"
 description: "site description goes here"
 
 url: "https://lvuch.github.io/OnlyTheBest"
+baseurl: "https://lvuch.github.io/OnlyTheBest"
 
 # Build settings
 markdown: kramdown
