@@ -5,7 +5,7 @@ description: "site description goes here"
 baseurl: "https://lvuch.github.io/OnlyTheBest"
 
 # Build settings
-markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
+# markdown: kramdown
+# sass:
+#   sass_dir: _sass
+#   style: compressed
