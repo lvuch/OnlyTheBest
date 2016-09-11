@@ -1,8 +1,8 @@
 # Site settings
-title: "Jekyll Boilerplate"
+title: "Only the Best"
 description: "site description goes here"
 
-url: "http://yourdomain.com"
+url: "https://lvuch.github.io/OnlyTheBest"
 
 # Build settings
 markdown: kramdown
