@@ -1,11 +1,23 @@
-# Site settings
-title: "Only the Best"
-description: "site description goes here"
+# # Site settings
+# title: "Only the Best"
+# description: "site description goes here"
 
-baseurl: "https://lvuch.github.io/OnlyTheBest"
+# baseurl: "https://lvuch.github.io/OnlyTheBest"
+
+# # Build settings
+# # markdown: kramdown
+# # sass:
+# #   sass_dir: _sass
+# #   style: compressed
+
+# Site settings
+title: "Only The Best"
+description: "Only The Best"
+
+url: "https://lvuch.github.io/OnlyTheBest"
 
 # Build settings
-# markdown: kramdown
-# sass:
-#   sass_dir: _sass
-#   style: compressed
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
