@@ -17,8 +17,11 @@ $black:             $darkGrey;
 // Styles
 $text_color:        $darkGrey;
 
+$script: 'Pinyon Script', cursive;
+$serif: 'EB Garamond', serif;
+
 // Font stack
-$body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$body-font: $serif;
 
 // The base body size
 $body-font-size: 18px !default;
