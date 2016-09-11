@@ -18,14 +18,6 @@
     
     
     <url>
-        <loc>http://yourdomain.com/bio/</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
         <loc>http://yourdomain.com/contact/</loc>
     </url>
     
@@ -43,6 +35,14 @@
     
     <url>
         <loc>http://yourdomain.com/testimonials/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://yourdomain.com/gallery/</loc>
     </url>
     
     

@@ -14,11 +14,9 @@ html {
 body {
   @include sans;
   color: $text_color;
-  font-size: 16px;
-  line-height: 1.5;
   font-family: 'EB Garamond', serif;
-  font-size: 16px;
-  line-height: 21px;
+  font-size: 18px;
+  line-height: 23px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -98,6 +96,23 @@ p {
     .description {
       opacity: 1;
     }
+  }
+}
+
+.testimonial {
+  background: $lightGrey;
+  padding: 40px 40px 80px 40px;
+  position: relative;
+
+  cite {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: right;
+    background-color: $midGrey;
+    color: $lightGrey;
+    padding: 10px;
   }
 }
 
