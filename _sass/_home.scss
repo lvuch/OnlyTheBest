@@ -1,2 +1,11 @@
 // Home styles
 // ---------------------------------------/
+
+.hero {
+  background-image: url(../img/hero-settee.png);
+  height: 450px;
+  background-position: top center;
+  background-attachment: fixed;
+  background-size: cover;
+  margin-top: -100px;
+}

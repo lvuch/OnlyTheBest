@@ -67,11 +67,18 @@ p {
 }
 
 .site-header {
-  background-image: url(../img/headerbg.png);
+  // background-image: url(../img/headerbg.png);
+    padding:.5em;
+    margin:0;
+    position:fixed;
+    top:0;
+    right:0;
+    left:0;
+    border-bottom:1px solid $lightGrey;
+    background:rgba(255,255,255,.8);
+    z-index:3;
   nav {
-    background-color: rgba(255, 255, 255, .65);
     text-align: center;
-    padding: 2.5% 0;
     font-family: $serif;
 
     > * {
@@ -89,6 +96,10 @@ p {
       }
     }
   }
+}
+
+.page-content {
+  padding-top: 100px; 
 }
 
 .img100 {
@@ -166,6 +177,7 @@ p {
     }
   }
 }
+
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
 @media only screen and (max-width: 480px) {
